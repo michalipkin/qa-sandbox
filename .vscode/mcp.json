@@ -1,8 +1,8 @@
 {
 	"servers": {
 		"xray": {
-			"type": "http",
-			"url": "http://localhost:5000/api/v4/mcp"
+			"url": "http://localhost:9988/api/v4/mcp",
+			"type": "http"
 		}
 	},
 	"inputs": []
